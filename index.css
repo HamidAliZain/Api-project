@@ -52,12 +52,12 @@ body {
 @media screen and (max-width: 300px) {
 
     .header {
-
-        font-size: 15px  ;
+               
+        font-size: 15px;
     }
-    
+
     .container {
-        font-size: 15px  ;
+        font-size: 15px;
         width: 200px;
         padding: 10px;
     }
